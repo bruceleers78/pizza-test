@@ -3,10 +3,12 @@ RECIPES = {
     'marinara': {
         'ingredients': {'garlic': 2, 'basil': 3},
         'price': 9,
+        'sauce': 'tomato'
     },
     'romana': {
         'ingredients': {'ham': 4, 'olive': 5, 'onion': 2, 'basil': 2},
         'price': 12,
+        'sauce': 'tomato'
     },
     'original': {
         'ingredients': {'garlic': 5, 'pepper': 4, 'parmesan': 2},
@@ -46,4 +48,5 @@ RECIPES = {
     'bazainville': {
         'ingredients': {'mozzarella': 3, 'olive': 4, 'ham': 3},
         'price': 11,
+        'sauce': 'tomato'
     }}
